@@ -23,7 +23,7 @@ html, body {
 .border-animation {
     width: 20rem;
     height: 20rem;
-    background-image: url("./png.png");
+    background-image: url("png.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
